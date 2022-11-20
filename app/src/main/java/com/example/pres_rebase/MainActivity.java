@@ -10,5 +10,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        System.out.println("Αυτό είναι το Branch2");
+        System.out.println("Αυτό είναι το δεύτερο commit του Branch2");
     }
 }
