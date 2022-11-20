@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        System.out.println("Αυτό είναι το Branch1");
-        System.out.println("Αυτό είναι το δεύτερο commit του Branch1");
+        System.out.println("Αυτό είναι το Branch2");
     }
 }
